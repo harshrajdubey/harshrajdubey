@@ -48,9 +48,10 @@
 ---
 
 ## 📈 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshrajdubey&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshrajdubey&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></p>
+<div style="text-align:center" align="center">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshrajdubey&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" /> &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=harshrajdubey&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshrajdubey&theme=tokyonight" alt="GitHub Streak" /></p>
+<p>  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshrajdubey&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</p>
+</div>
