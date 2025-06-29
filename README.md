@@ -2,6 +2,7 @@
 <h3 align="center">Welcome to my GitHub Profile 🚀</h3>
 
 <h3 align="center">🎓 Student at IIT Kharagpur | 🧑‍💻 Full Stack Developer | ☁️ DevOps Enthusiast</h3>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=harshrajdubey.harshrajdubey&"  /></p>
 
 ---
 
