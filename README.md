@@ -2,7 +2,7 @@
 
 # Hey there, I'm Harsh Raj Dubey 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;IIT+Kharagpur+%F0%9F%8E%93;Building+Scalable+Systems+%F0%9F%94%A7;Open+Source+Contributor+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;IIT+Kharagpur+%F0%9F%8E%93;Building+Scalable+Systems+%F0%9F%94%A7;Open+Source+Contributor+%F0%9F%8C%8D)]()
 
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=harshrajdubey.harshrajdubey)](https://github.com/harshrajdubey)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshrajdubey)
